@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- ⚡ Fun fact **I am in fact alive.**
+- ⚡ Fun fact **I am in fact .....!**
 
 <h3 align="left">Connect with me:</h3>
 
