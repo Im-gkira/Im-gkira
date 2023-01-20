@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-gkira&label=Profile%20views&color=0e75b6&style=flat" alt="im-gkira" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **Flask**
+🌱 I’m currently learning **Flask**<br>
 ⚡ Fun fact **I am in fact .....!**
 
 
