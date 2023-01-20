@@ -1,5 +1,9 @@
+<h1 align="left">Hi,I'm Kirat</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-gkira&label=Profile%20views&color=0e75b6&style=flat" alt="im-gkira" /> </p>
+
 # 💫 About Me:
-🌱 I’m currently learning Flask<br><br>⚡ Fun fact I am in fact .....!
+🌱 I’m currently learning **Flask**
+⚡ Fun fact **I am in fact .....!**
 
 
 # 💻 Tech Stack:
