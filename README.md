@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-gkira&label=Profile%20views&color=0e75b6&style=flat" alt="im-gkira" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **a Rest API**<br>🌱 I’m currently learning **ORM'S (SQLAlchemy)**<br>⚡ Fun fact: I am in fact ___~~mqaan~~___!
+🔭 I’m currently working on **a Rest API**<br>🌱 I’m currently learning **Spring**<br>⚡ Fun fact: I am in fact ___~~mqaan~~___!
 
 
 # 💻 Tech Stack:
